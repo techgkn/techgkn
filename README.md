@@ -16,3 +16,4 @@ have some links<br>
 [twitter](https://twitter.com/TechGkN)<br>
 [youtube](https://www.youtube.com/channel/UCEKnmGx619jUUpSlVQj1tFg)<br>
 [instagram](https://www.instagram.com/techgkn/)<br>
+[ko-fi](https://ko-fi.com/techgkn)
