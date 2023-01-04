@@ -1,9 +1,8 @@
 # 👋🌎 I'm TechGkN.
 
-You may know me from such projects as [YarnCalc](https://github.com/techgkn/YarnCalc), [**S.P.U.D.**](https://spud.techgkn.com) or [**InviteHandlr**](#).
+You may know me from such projects as [YarnCalc](https://github.com/techgkn/YarnCalc), [**S.P.U.D.**](https://spud.ju.mp/) or [**InviteHandlr**](#).
 
 > InviteHandlr doesn't have a webpage yet.
-> nvm neither do the others
 
 uh that's it for now
 
